@@ -6,3 +6,5 @@ green
 purple
 brown 
 black
+gray
+pink
