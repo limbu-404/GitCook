@@ -4,7 +4,8 @@ yellow
 blue
 green
 purple
-brown 
+brown
 black
 gray
 pink
+bright white
